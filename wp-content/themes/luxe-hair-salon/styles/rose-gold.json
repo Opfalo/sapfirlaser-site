@@ -1,0 +1,56 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "🌸 Rose Gold",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#B76E79",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#6B5B5B",
+					"name": "Mono 2",
+					"slug": "mono-2"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Contrast Light",
+					"slug": "contrast-light"
+				},
+				{
+					"color": "#000000",
+					"name": "Contrast Dark",
+					"slug": "contrast-dark"
+				},
+				{
+					"color": "#FDF8F8",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#4A3F3F",
+					"name": "Mono 1",
+					"slug": "mono-1"
+				},
+				{
+					"color": "#E8DADA",
+					"name": "Mono 3",
+					"slug": "mono-3"
+				},
+				{
+					"color": "#F5EDED",
+					"name": "Mono 4",
+					"slug": "mono-4"
+				},
+				{
+					"color": "#9E5B65",
+					"name": "Primary Hover",
+					"slug": "primary-hover"
+				}
+			]
+		}
+	}
+}

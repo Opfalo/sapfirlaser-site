@@ -1,0 +1,283 @@
+# Copyright (C) 2026 Optima Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: graceful omni blog\n"
+"Report-Msgid-Bugs-To: https://optimathemes.com/\n"
+"POT-Creation-Date: 2026-05-26 13:44+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: functions.php:85
+msgid "Omni Latest Posts"
+msgstr ""
+
+#: functions.php:99
+msgid "Enable Latest Posts"
+msgstr ""
+
+#: functions.php:107 functions.php:197
+msgid "Full Width"
+msgstr ""
+
+#: functions.php:108 functions.php:198 functions.php:445 functions.php:553
+msgid "Boxed"
+msgstr ""
+
+#: functions.php:119 functions.php:209
+msgid "Section Width"
+msgstr ""
+
+#: functions.php:135
+msgid "Show Category"
+msgstr ""
+
+#: functions.php:150
+msgid "Show Author"
+msgstr ""
+
+#: functions.php:165
+msgid "Show Date"
+msgstr ""
+
+#: functions.php:175
+msgid "Omni Featured Links"
+msgstr ""
+
+#: functions.php:189
+msgid "Enable Featured Links"
+msgstr ""
+
+#: functions.php:225
+msgid "Background Color"
+msgstr ""
+
+#: functions.php:239
+msgid "Link 1 Title"
+msgstr ""
+
+#: functions.php:253
+msgid "Link 1 URL"
+msgstr ""
+
+#: functions.php:267
+msgid "Link 1 Image"
+msgstr ""
+
+#: functions.php:286
+msgid "Link 2 Title"
+msgstr ""
+
+#: functions.php:300
+msgid "Link 2 URL"
+msgstr ""
+
+#: functions.php:314
+msgid "Link 2 Image"
+msgstr ""
+
+#: functions.php:333
+msgid "Link 3 Title"
+msgstr ""
+
+#: functions.php:347
+msgid "Link 3 URL"
+msgstr ""
+
+#: functions.php:361
+msgid "Link 3 Image"
+msgstr ""
+
+#: functions.php:380
+msgid "Link 4 Title"
+msgstr ""
+
+#: functions.php:394
+msgid "Link 4 URL"
+msgstr ""
+
+#: functions.php:408
+msgid "Link 4 Image"
+msgstr ""
+
+#: functions.php:422
+msgid "Omni Post Slider"
+msgstr ""
+
+#: functions.php:436
+msgid "Enable Omni Post Slider"
+msgstr ""
+
+#: functions.php:444 functions.php:552
+msgid "Full"
+msgstr ""
+
+#: functions.php:456
+msgid "Slider Width"
+msgstr ""
+
+#: functions.php:469
+msgid "Hero Banner"
+msgstr ""
+
+#: functions.php:484
+msgid "Enable Hero Banner"
+msgstr ""
+
+#: functions.php:499
+msgid "Image"
+msgstr ""
+
+#: functions.php:517
+msgid "Title"
+msgstr ""
+
+#: functions.php:531
+msgid "Link URL"
+msgstr ""
+
+#: functions.php:545
+msgid "Button Color"
+msgstr ""
+
+#: functions.php:564
+msgid "Hero Banner Width"
+msgstr ""
+
+#: functions.php:597
+msgid "Top Navigaion"
+msgstr ""
+
+#: functions.php:602
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:616
+msgid "Enable Top Navigation"
+msgstr ""
+
+#: functions.php:631
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: functions.php:645
+msgid "Top Navigation Text Color"
+msgstr ""
+
+#: functions.php:659
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: functions.php:670
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:680
+msgid "Set-up Top Menu"
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:23
+msgid "Display social media links with icons."
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:29
+msgid "Graceful Omni: Social Media"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:81
+#: inc/widgets/social-media-widget.php:91
+#, php-format
+msgid "Follow us on %s"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:120
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:127
+msgid "Facebook URL:"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:134
+msgid "X (Twitter) URL:"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:141
+msgid "Instagram URL:"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:148
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:155
+msgid "Pinterest URL:"
+msgstr ""
+
+#: inc/widgets/social-media-widget.php:162
+msgid "YouTube URL:"
+msgstr ""
+
+#: template-parts/columns/column-one.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/columns/column-one.php:57
+#: template-parts/sections/omni-posts.php:55
+#: template-parts/single/post-contents.php:50
+msgid "By"
+msgstr ""
+
+#: template-parts/columns/column-one.php:73
+msgid "Nothing Found!"
+msgstr ""
+
+#: template-parts/columns/column-one.php:74
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/sections/hero-banner.php:23
+#: template-parts/sections/omni-slider.php:54
+msgid "Read More"
+msgstr ""
+
+#: template-parts/sections/omni-slider.php:42
+msgid "Uncategorized"
+msgstr ""
+
+#: template-parts/sections/omni-slider.php:61
+msgid "Previous slide"
+msgstr ""
+
+#: template-parts/sections/omni-slider.php:62
+msgid "Next slide"
+msgstr ""
+
+#: template-parts/single/post-contents.php:67
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/single/post-contents.php:82
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/single/post-contents.php:83
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/single/post-contents.php:84
+msgid "Comments"
+msgstr ""
